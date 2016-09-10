@@ -18,6 +18,10 @@ img {
   /* 1292 x 1273 */ /* ipad is 2048 x 1536 */
 }
 
+a {
+    color: black;
+}
+
 .clock1 {
     /*height: auto;*/
    width: 100%;
